@@ -15,5 +15,5 @@ Description
 
 A location lookup by zipcode.
 
-This is based on [Ziptastic](http://daspecster.github.com/ziptastic/) by daspecster(http://daspecster.github.com/)
+This is based on [Ziptastic](http://daspecster.github.com/ziptastic/) by [daspecster](http://daspecster.github.com/)
 
